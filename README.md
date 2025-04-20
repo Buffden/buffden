@@ -1,4 +1,4 @@
-# Buffden:
+# Hey, I am Buffden 🤠:
 I build reusable, scalable code with high standards, ensuring full-stack integration, security, and performance.
 
 💻 Full-Stack & DevOps Engineer | 🤖 AI/ML Explorer | 🧠 System Design Learner
