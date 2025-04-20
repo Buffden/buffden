@@ -1,11 +1,13 @@
 # Hey, I am Buffden 🤠:
-💻 I engineer and build **scalable**, **clean**, and **reusable systems**, driven by a passion for solving **real-world challenges** with complete focus, intent, and curiosity.  
+💻 I’m a **Full-Stack Engineer** who writes **clean**, **scalable code** from frontend to backend.
 
-🧠 With **3 years of experience** in web development, I write **high-quality full-stack code** that prioritizes **⚡ performance**, **🛠️ maintainability**, and **🔐 security**. My work integrates **🔁 DevOps** and **🤖 AI/ML** practices to deliver **🚀 production-ready solutions** with real-world impact.
+🔁 I love **DevOps** — automating pipelines, deploying with **Docker**, and optimizing **CI/CD workflows**.
 
-🎓 I'm a **constant learner**, currently pursuing my **Master's in Software Engineering** at the **University of Texas at Arlington (UTA)**. I enjoy diving into **🧪 new technologies**, refining my skills in **📐 low-level design**, and studying **🧩 complex system architectures** at scale.
+🤖 I explore **AI/ML** and build **data-driven applications** with real-world impact.
 
-📊 I specialize in building **📈 data-intensive applications** using **🧱 optimal design patterns** and **✅ industry best practices**, guided by a **🧠 problem-solving mindset** and a strong belief in **✨ clean architecture**.
+🎓 I’m currently pursuing my **Master’s in Software Engineering** at **UTA**.
+
+🧠 I enjoy studying **system design**, **low-level architecture**, and solving **complex technical challenges**.
 
 ---
 
