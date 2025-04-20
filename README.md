@@ -1,11 +1,16 @@
-# Hey, I am Buffden 🤠:
-💻 I’m a **Full-Stack Engineer** who writes **clean**, **scalable code** from frontend to backend.
+<h1 align="center">
+  <div style="background: #1A1B27; border: 2px solid #1f6feb; border-radius: 10px; padding: 10px; display: inline-block; margin: 20px 0;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;I'm+Harshwardhan+Patil!;&background=1A1B27&color=FFFFFF" />
+  </div>
+</h1>
+
+💻 I'm a **Full-Stack Engineer** who writes **clean**, **scalable code** from frontend to backend.
 
 🔁 I love **DevOps** — automating pipelines, deploying with **Docker**, and optimizing **CI/CD workflows**.
 
 🤖 I explore **AI/ML** and build **data-driven applications** with real-world impact.
 
-🎓 I’m currently pursuing my **Master’s in Software Engineering** at **UTA**.
+🎓 I'm currently pursuing my **Master's in Software Engineering** at **UTA**.
 
 🧠 I enjoy studying **system design**, **low-level architecture**, and solving **complex technical challenges**.
 
