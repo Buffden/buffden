@@ -7,9 +7,6 @@
 
 📊 I specialize in building **📈 data-intensive applications** using **🧱 optimal design patterns** and **✅ industry best practices**, guided by a **🧠 problem-solving mindset** and a strong belief in **✨ clean architecture**.
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Buffden&label=Profile%20Views&color=12&icon=5&pretty=true)
-
-
 ---
 
 <table>
