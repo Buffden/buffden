@@ -1,12 +1,12 @@
-<h1 align="center">
-  <div style="background: #1A1B27; border: 2px solid #1f6feb; border-radius: 10px; padding: 10px; display: inline-block; margin: 20px 0;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;I'm+Harshwardhan+Patil!;&background=1A1B27&color=FFFFFF" />
-  </div>
-</h1>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F6FEB,100:7C3AED&text=Harshwardhan%20Patil&fontColor=FFFFFF&fontSize=48&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Cloud%20%7C%20DevOps%20%7C%20System%20Design&descSize=18&descAlign=50&descAlignY=58&animation=fadeIn" />
+
+</div>
 
 Full-stack software engineer focused on building clean, scalable, and maintainable systems across frontend, backend, and cloud.
 
-I enjoy designing reusable components, automating CI/CD pipelines, and deploying production systems with Docker and AWS. Currently pursuing a Master’s in Software Engineering at UTA, with a strong interest in system design, software architecture, and solving real-world engineering problems.
+I enjoy designing reusable components, automating CI/CD pipelines, and deploying production systems with Docker and AWS. Currently pursuing a Master’s in Software Engineering at UTA, with a strong interest in system design, software architecture, and real-world engineering problems.
 
 ---
 
@@ -69,14 +69,15 @@ I enjoy designing reusable components, automating CI/CD pipelines, and deploying
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Buffden&theme=tokyonight)
 
 ---
+<p align="center">
+  <img width="220" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Buffden&theme=tokyonight" />
+  <img width="220" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Buffden&theme=tokyonight" />
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Buffden&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Buffden&theme=tokyonight)
-
----
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Buffden&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Buffden&theme=tokyonight&utcOffset=-5)
+<p align="center">
+  <img width="220" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Buffden&theme=tokyonight" />
+  <img width="220" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Buffden&theme=tokyonight&utcOffset=-5" />
+</p>
 
 ---
 
