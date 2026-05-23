@@ -70,13 +70,13 @@ I enjoy designing reusable components, automating CI/CD pipelines, and deploying
 
 ---
 <p align="center">
-  <img width="220" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Buffden&theme=tokyonight" />
-  <img width="220" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Buffden&theme=tokyonight" />
+  <img width="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Buffden&theme=tokyonight" />
+  <img width="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Buffden&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="220" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Buffden&theme=tokyonight" />
-  <img width="220" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Buffden&theme=tokyonight&utcOffset=-5" />
+  <img width="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Buffden&theme=tokyonight" />
+  <img width="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Buffden&theme=tokyonight&utcOffset=-5" />
 </p>
 
 ---
