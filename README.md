@@ -10,6 +10,19 @@ I enjoy designing reusable components, automating CI/CD pipelines, and deploying
 
 ---
 
+## Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.buffden.com/)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshwardhanpatil23)&nbsp;&nbsp;
+[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/buffden/)&nbsp;&nbsp;
+[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14113753/buffden)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.harshwardhanpatil@gmail.com)&nbsp;&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uB7whfPg)&nbsp;&nbsp;
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/csgoBuffden/)&nbsp;&nbsp;
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/buffden)
+
+
+---
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -56,18 +69,6 @@ I enjoy designing reusable components, automating CI/CD pipelines, and deploying
 </td>
 </tr>
 </table>
-
----
-
-## Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.buffden.com/)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshwardhanpatil23)&nbsp;&nbsp;
-[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14113753/buffden)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.harshwardhanpatil@gmail.com)&nbsp;&nbsp;
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uB7whfPg)&nbsp;&nbsp;
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/csgoBuffden/)&nbsp;&nbsp;
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/buffden)
-
 
 ---
 <div align="center">
