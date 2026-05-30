@@ -4,9 +4,11 @@
 
 </div>
 
-Full-stack software engineer focused on building clean, scalable, and maintainable systems across frontend, backend, and cloud.
+I build production-grade software systems, and I care a lot about getting the architecture right. Been doing this for 5 years, mostly thinking about how systems scale, fail, and recover.
 
-I enjoy designing reusable components, automating CI/CD pipelines, and deploying production systems with Docker and AWS. Currently pursuing a Master’s in Software Engineering at UTA, with a strong interest in system design, software architecture, and real-world engineering problems.
+Big on AWS, clean code, and lately AI and LLMs. I focus on applying the right industrial practices to solve real problems and keep upskilling.
+
+Ex-Clarivate, Software Engineering grad from UT Arlington, Spring 2026.
 
 ---
 
