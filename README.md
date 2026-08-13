@@ -4,11 +4,11 @@
 
 </div>
 
-I build production-grade software systems, and I care a lot about getting the architecture right. Been doing this for 5 years, mostly thinking about how systems scale, fail, and recover.
+I build production software with a focus on clean architecture, maintainability, and reliable delivery.
 
-Big on AWS, clean code, and lately AI and LLMs. I focus on applying the right industrial practices to solve real problems and keep upskilling.
+I have 3+ years of professional experience across full-stack development, production releases, and data-heavy applications, primarily with Java, Spring Boot, Angular, PostgreSQL, AWS, and Docker. More recently, I’ve been going deeper into backend systems, distributed architecture, and AI/LLM applications.
 
-Ex-Clarivate, Software Engineering grad from UT Arlington, Spring 2026.
+Ex-Clarivate. MS in Software Engineering, UT Arlington — Spring 2026.
 
 ---
 
